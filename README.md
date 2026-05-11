@@ -23,5 +23,6 @@ The annual growth rates for products vary between 1.5 percent and 4.9 percent. C
 
 
   
-  Promotions such as price cuts
+ 4. Promotions such as price cuts show that sales are higher when you have a promotion for Cookies,Smoothies and Coffee.
   
+<img width="714" height="420" alt="image" src="https://github.com/user-attachments/assets/c671120d-13c2-4bc8-8855-e134a2e1170d" />
