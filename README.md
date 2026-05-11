@@ -11,7 +11,17 @@ Analyzing Product Seasonality is important to efficiently plan advertising, prom
     
   <img width="765" height="617" alt="image" src="https://github.com/user-attachments/assets/4d099f07-07e4-46f8-a8b9-fdf183830213" />
 
-  An upward (or downward!) trend over time in sales
+ 3. An upward (or downward!) trend over time in sales
+
+The owners of La Petit Bakery want to know if sales are improving. To analyze this type of trend we compute and chart average daily sales for each year.
+
+<img width="296" height="57" alt="image" src="https://github.com/user-attachments/assets/eeb8f55b-6b5d-406e-82f7-8b8df82ad090" />
+
+The annual growth rates for products vary between 1.5 percent and 4.9 percent. Cake sales have grown at the fastest rate, but represent a small part of overall sales. Cookies and coffee sales have grown more slowly, but represent a much larger percentage of revenues.
+
+<img width="739" height="472" alt="image" src="https://github.com/user-attachments/assets/d901cea4-b73c-483f-a952-e600405c1172" />
+
+
   
   Promotions such as price cuts
   
