@@ -1,5 +1,32 @@
-The analysis shows how La Petit Bakery’s sales are affected by the following:
+# Bakery Sales Analysis Dashboard
 
+## Overview
+This project analyzes bakery sales data using Power BI to identify
+top-selling products, peak sales periods, and customer purchasing trends.
+
+## Business Problem
+The bakery wanted to:
+- Identify best-selling products
+- Improve inventory planning
+- Understand peak customer demand periods
+
+## Dataset
+- Bakery Sales Dataset
+- 5,000+ transaction records
+
+## Tools Used
+- Power BI
+- Excel
+- Power Query
+- DAX
+
+## Workflow
+1. Cleaned raw sales data
+2. Created KPIs and measures
+3. Built interactive visual dashboard
+4. Performed trend analysis
+
+## Dashboard
  1. Day of the week:
     
 Summarizing the Effect of the Day of the Week on Bakery Sales shows that all products sell more on the weekend than during the week.
@@ -26,3 +53,16 @@ The annual growth rates for products vary between 1.5 percent and 4.9 percent. C
  4. Promotions such as price cuts show that sales are higher when you have a promotion for Cookies,Smoothies and Coffee.
   
 <img width="714" height="420" alt="image" src="https://github.com/user-attachments/assets/c671120d-13c2-4bc8-8855-e134a2e1170d" />
+
+
+## Key Insights
+- Cakes generated highest revenue
+- Weekend sales were significantly higher
+- Morning hours had highest transaction volume
+
+## Recommendations
+- Increase staffing during weekends
+- Promote high-margin bakery items
+- Optimize morning inventory levels
+- The analysis shows how La Petit Bakery’s sales are affected by the following:
+
