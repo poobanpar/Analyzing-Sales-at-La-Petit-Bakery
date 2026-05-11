@@ -53,13 +53,14 @@ The annual growth rates for products vary between 1.5 percent and 4.9 percent. C
 
 
 ## Key Insights
-- Cakes generated highest revenue
+- Smoothie sales spike upward in the summer, but sales of other products exhibit little seasonality
 - Weekend sales were significantly higher
-- Morning hours had highest transaction volume
+- Cake sales have grown at the fastest rate
+- Sales are higher when you have a promotion for Cookies,Smoothies and Coffee
 
 ## Recommendations
 - Increase staffing during weekends
 - Promote high-margin bakery items
-- Optimize morning inventory levels
-- The analysis shows how La Petit Bakery’s sales are affected by the following:
+- Optimize inventory levels as per seasonality
+- The analysis shows how La Petit Bakery’s sales are affected by the following: price cut promotions, weekends, seasonality. 
 
