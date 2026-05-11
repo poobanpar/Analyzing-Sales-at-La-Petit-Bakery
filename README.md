@@ -15,11 +15,8 @@ The bakery wanted to:
 - 5,000+ transaction records
 
 ## Tools Used
-- Power BI
 - Excel
-- Power Query
-- DAX
-
+- 
 ## Workflow
 1. Cleaned raw sales data
 2. Created KPIs and measures
